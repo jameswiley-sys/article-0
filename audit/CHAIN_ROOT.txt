@@ -1,0 +1,10 @@
+ARTICLE_0_AUDIT_CHAIN_MANIFEST
+generated_at: 2026-10-25 12:48 MT (America/Denver, UTC-6)
+article_0_rule: No AI shall cast, count, judge, or certify a human ballot from the voter's hand to the final tally, or access voter records without permission.
+csv_file: audit/agent-task-chain.csv
+total_verified_rows: 549
+ballot_tabulation_or_certification_rows: 0
+genesis_hash: 0000000000000000000000000000000000000000000000000000000000000000
+csv_file_sha256: bf2aff76f3c2594cb0067e300f1cd73b252becdc28bd4e58c79e60dc401e0fb7
+sequential_chain_tip_sha256: ce2328188fb353be94956bf900d43cf716fb29b6712e5734046c8bd2a4a299e2
+merkle_root_sha256: 18316b7d00751c5557b57a48435d6afd43e9d930d9a51c810aa3826fd18128c6
